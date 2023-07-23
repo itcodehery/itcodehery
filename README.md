@@ -1,6 +1,6 @@
-<!--
-osdoaksdp
--->
-Java, Flutter, C
 
-📍blr, in
+Java, Flutter, C, Unity
+
+📍 blr, in
+
+📖 Christ Academy Institute for Advanced Studies
