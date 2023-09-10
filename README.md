@@ -1,5 +1,4 @@
-
-Java, Flutter, C, Unity
+a Flutter Dev with skills in Java, C, C++ and Unity
 
 📍 blr, in
 
