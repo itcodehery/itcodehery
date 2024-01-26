@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzJnYXY3ajNwMzBpenZmbWtteWJ3N2tuMzE3Y2phNWJ1YXdiNDlrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"></div></img>
 </div>
-<h1 align="center">Hello! I'm Hari!✨
+<h1 align="center">Hello! I'm Hari!✨<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 <h3 align="center">a designer foremost, who loves to code and solve problems</h3>
 
 <div align="center">
