@@ -32,11 +32,12 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20px"/> HTML & CSS
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20px"/> Javascript
 
-<h2>More</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itcodehery&show_icons=true&locale=en&layout=compact" alt="itcodehery" /></p>
+<h1 align="center">Stats</h2>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itcodehery&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itcodehery&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-📖 Christ Academy Institute for Advanced Studies
-
-[Contact me via Email, Click here!](mailto:haririo321@gmail.com)
+<h2 align="center">More</h2>
+<p>📖 Christ Academy Institute for Advanced Studies</p>
+<p>🎹 Keyboardist and Music Artist (@herymusic on yt)</p>
