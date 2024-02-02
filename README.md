@@ -19,7 +19,7 @@
 <div align="center">
     <p>📱 I build mobile apps using <b>Flutter</b></p>
     <p>🖥️ <b>Java and C</b> are my comfort place.</p>
-    <p>🌱 I’m currently learning <b>SvelteKit Full Stack and Gotham Stack</b></p>
+    <p>🌱 I’m currently learning <b>SvelteKit Full Stack and Part-Gotham Stack (Go, Templ, HTMX)</b></p>
   </div>
 <h1 align="center">My Tech Stack</h1>
 
@@ -31,6 +31,7 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="20px"/> Svelte and SvelteKit
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20px"/> HTML & CSS
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20px"/> Javascript
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="20px"/> [L] Go
 
 <h1 align="center">Stats</h2>
 
@@ -41,3 +42,4 @@
 <h2 align="center">More</h2>
 <p>📖 Christ Academy Institute for Advanced Studies</p>
 <p>🎹 Keyboardist and Music Artist (@herymusic on yt)</p>
+<p>Also have skills in <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="20px" /> Premiere Pro and Video Editing</p>
