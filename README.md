@@ -35,9 +35,12 @@
 
 <h1 align="center">Stats</h2>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itcodehery&theme=dark&background=000000)](https://git.io/streak-stats)
+<div style="display=flex; flex-direction=row; gap=20px;">
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itcodehery&theme=onedark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itcodehery&layout=donut&theme=onedark&background=000000&hide=python,shaderlab,cmake,cython,C++)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itcodehery&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <h2 align="center">More</h2>
 <p>📖 Christ Academy Institute for Advanced Studies</p>
