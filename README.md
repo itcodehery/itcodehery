@@ -45,5 +45,5 @@
 
 <h2 align="center">More</h2>
 <p>📖 Christ Academy Institute for Advanced Studies</p>
-<p>🎹 Keyboardist and Music Artist (@herymusic on yt)</p>
+<p>🎹 Keyboardist and Music Artist (@herymusic on YouTube and Spotify)</p>
 <p>Also have skills in <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="20px" /> Premiere Pro and Video Editing</p>
