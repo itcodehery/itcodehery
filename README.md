@@ -32,13 +32,17 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="20px"/> Svelte and SvelteKit
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20px"/> HTML & CSS
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20px"/> Javascript
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20px"/> Typescript
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="20px"/> [L] Go
 
 <h1 align="center">Stats</h2>
 
-<div style="display=flex; flex-direction=row; gap=20px;">
+<div style="display:flex; flex-direction:column; align-items:center; align-content:center; justify-content:center; justify-items:center; gap:40px;" align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itcodehery&theme=onedark&background=000000)](https://git.io/streak-stats)
+
+<div style="width=20px; height=20px;"></div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itcodehery&layout=donut&theme=onedark&background=000000&hide=python,shaderlab,cmake,cython,C++)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
