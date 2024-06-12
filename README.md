@@ -18,8 +18,8 @@
 <h3 align="center">📍 blr, in</h3>
 <div align="center">
     <p>📱 I build mobile apps using <b>Flutter</b></p>
-    <p>🖥️ <b>Java and Dart</b> are my comfort place.</p>
-    <p>🌱 I’m currently learning <b>SvelteKit Full Stack and Flutter Advanced</b></p>
+    <p>🖥️ <b>WebStack and Dart</b> are my comfort places.</p>
+    <p>🌱 I’m currently learning <b>Full Stack App Development</b></p>
   </div>
 <h1 align="center">My Tech Stack</h1>
 
