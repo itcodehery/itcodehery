@@ -19,7 +19,7 @@
 <div align="center">
     <p>📱 I build mobile apps using <b>Flutter</b></p>
     <p>🖥️ <b>WebStack and Dart</b> are my comfort places.</p>
-    <p>🌱 I’m currently learning <b>Full Stack App Development</b></p>
+    <p>🌱 I’m currently learning <b>React.JS and Typescript</b></p>
   </div>
 <h1 align="center">My Tech Stack</h1>
 
