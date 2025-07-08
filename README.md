@@ -17,9 +17,9 @@
 </div>
 <h3 align="center">📍 blr, in</h3>
 <div align="center">
-    <p>📱 I build mobile apps using <b>Flutter</b></p>
+    <p>📱 I build cross-platform apps using <b>Flutter</b></p>
     <p>🖥️ <b>WebStack and Dart</b> are my comfort places.</p>
-    <p>🌱 I’m currently learning <b>React.JS and Typescript</b></p>
+    <p>🌱 I’m currently learning <b>Rust and C</b></p>
   </div>
 <h1 align="center">My Tech Stack</h1>
 
@@ -28,7 +28,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
@@ -52,6 +51,5 @@
 </div>
 
 <h2 align="center">More</h2>
-<p>📖 Christ Academy Institute for Advanced Studies</p>
-<p>🎹 Keyboardist and Music Artist (@herymusic on YouTube and Spotify)</p>
-<p>Also have skills in <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="20px" /> Premiere Pro and Video Editing</p>
+<p>📖 MCA @ Christ University, Central Campus, Bangalore</p>
+<p>🎹 Keyboardist, Music Artist and Music Mentor (@herymusic on YouTube and Spotify)</p>
