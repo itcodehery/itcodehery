@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/hari-prasad-43285a24a/">
     <img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
-  <a href="mailto:haririo321@gmail.com">
+  <a href="mailto:hariprasadbk@proton.me">
     <img src="https://img.shields.io/badge/mail-red?logo=gmail&logoColor=white&style=for-the-badge">
   </a>
 </div>
