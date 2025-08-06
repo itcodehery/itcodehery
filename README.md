@@ -1,56 +1,85 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzJnYXY3ajNwMzBpenZmbWtteWJ3N2tuMzE3Y2phNWJ1YXdiNDlrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"></div></img>
-</div>
-<h1 align="center">Hello! I'm Hari!✨<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-<h3 align="center">a designer foremost, who loves to code and solve problems</h3>
+# Hello! I'm Hari ✨
+
+**Aspiring Systems Programmer | Full-Stack Developer | Problem Solver**
+
+I'm passionate about low-level programming, system design, and building efficient solutions across the stack. Currently exploring the depths of systems programming while crafting user experiences through code.
+
+---
+
+## 🌐 Connect With Me
+
+[![Linktree](https://img.shields.io/badge/Linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/itwritshery)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-prasad-43285a24a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hariprasadbk@proton.me)
+
+**📍 Bangalore, India**
+
+---
+
+## 🚀 What I Do
+
+- **📱 Mobile Development**: Building cross-platform applications with Flutter
+- **🖥️ Systems Programming**: Diving deep into Rust and C for performance-critical applications
+- **🌐 Full-Stack Development**: Creating end-to-end solutions with modern web technologies
+- **🧩 Problem Solving**: Tackling complex algorithmic and system design challenges
+
+---
+
+## 🛠️ Technology Stack
+
+### Systems & Low-Level
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Mobile & Cross-Platform
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Web Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Other Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <a href="https://linktr.ee/itwritshery">
-    <img src="https://img.shields.io/badge/Linktree-green?logo=linktree&logoColor=white&style=for-the-badge">
-  </a>
-  <a href="https://www.linkedin.com/in/hari-prasad-43285a24a/">
-    <img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge">
-  </a>
-  <a href="mailto:hariprasadbk@proton.me">
-    <img src="https://img.shields.io/badge/mail-red?logo=gmail&logoColor=white&style=for-the-badge">
-  </a>
-</div>
-<h3 align="center">📍 blr, in</h3>
-<div align="center">
-    <p>📱 I build cross-platform apps using <b>Flutter</b></p>
-    <p>🖥️ <b>WebStack and Dart</b> are my comfort places.</p>
-    <p>🌱 I’m currently learning <b>Rust and C</b></p>
-  </div>
-<h1 align="center">My Tech Stack</h1>
 
-<div style="display: flex; flex-direction:row;" align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
-<img src="https://miqh.gallerycdn.vsassets.io/extensions/miqh/vscode-language-rust/0.14.0/1536151476041/Microsoft.VisualStudio.Services.Icons.Default" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40px"/>
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itcodehery&theme=dark&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
-<h1 align="center">Stats</h2>
-
-<div style="display:flex; flex-direction:column; align-items:center; align-content:center; justify-content:center; justify-items:center; gap:40px;" align="center">
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itcodehery&theme=onedark&background=000000)](https://git.io/streak-stats)
-
-<div style="width=20px; height=20px;"></div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itcodehery&layout=donut&theme=onedark&background=000000&hide=python,shaderlab,cmake,cython,C++)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itcodehery&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&hide=python,shaderlab,cmake,cython,C%2B%2B)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
-<h2 align="center">More</h2>
-<p>📖 MCA @ Christ University, Central Campus, Bangalore</p>
-<p>🎹 Keyboardist, Music Artist and Music Mentor (@herymusic on YouTube and Spotify)</p>
+---
+
+## 🎓 Education & Beyond
+
+**🎓 Master of Computer Applications (MCA)**  
+Christ University, Central Campus, Bangalore
+
+**🎹 Creative Pursuits**  
+Music Artist & Mentor | Creating content as @herymusic on YouTube and Spotify
+
+---
+
+## 🌱 Current Focus
+
+- **Systems Programming**: Deepening expertise in Rust and C
+- **Performance Optimization**: Learning about memory management and efficient algorithms
+- **Open Source Contribution**: Contributing to systems-level projects
+- **Concurrent Programming**: Exploring multi-threading and async patterns
+
+---
+
+*Striving to write code that's not just functional, but efficient, elegant, and maintainable.*
