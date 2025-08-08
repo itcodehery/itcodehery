@@ -55,7 +55,7 @@ I'm passionate about low-level programming, system design, and building efficien
 
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itcodehery&theme=dark&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+![GitHub Stats](https://streak-stats.demolab.com?user=itcodehery&theme=dark&hide_border=true)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itcodehery&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&hide=python,shaderlab,cmake,cython,C%2B%2B)](https://github.com/anuraghazra/github-readme-stats)
 
