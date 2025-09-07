@@ -6,26 +6,26 @@ I'm passionate about low-level programming, system design, and building efficien
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 [![Linktree](https://img.shields.io/badge/Linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/itwritshery)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-prasad-43285a24a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hariprasadbk@proton.me)
 
-**📍 Bangalore, India**
+**Bangalore, India**
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
-- **📱 Mobile Development**: Building cross-platform applications with Flutter
-- **🖥️ Systems Programming**: Diving deep into Rust and C for performance-critical applications
-- **🌐 Full-Stack Development**: Creating end-to-end solutions with modern web technologies
-- **🧩 Problem Solving**: Tackling complex algorithmic and system design challenges
+- **Mobile Development**: Building cross-platform applications with Flutter
+- **Systems Programming**: Diving deep into Rust and C for performance-critical applications
+- **Full-Stack Development**: Creating end-to-end solutions with modern web technologies
+- **Problem Solving**: Tackling complex algorithmic and system design challenges
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Systems & Low-Level
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -51,7 +51,7 @@ I'm passionate about low-level programming, system design, and building efficien
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -63,12 +63,12 @@ I'm passionate about low-level programming, system design, and building efficien
 
 ---
 
-## 🎓 Education & Beyond
+## Education & Beyond
 
-**🎓 Master of Computer Applications (MCA)**  
+**Master of Computer Applications (MCA)**  
 Christ University, Central Campus, Bangalore
 
-**🎹 Creative Pursuits**  
+**Creative Pursuits**  
 Music Artist & Mentor | Creating content as @herymusic on YouTube and Spotify
 
 ---
