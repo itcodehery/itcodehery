@@ -1,6 +1,6 @@
 # Hello! I'm Hari ✨
 
-**Aspiring Systems Programmer | Full-Stack Developer | Problem Solver**
+**Systems Programmer | Full-Stack Developer | Problem Solver**
 
 I'm passionate about low-level programming, system design, and building efficient solutions across the stack. Currently exploring the depths of systems programming while crafting user experiences through code.
 
