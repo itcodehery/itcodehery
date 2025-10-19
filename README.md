@@ -1,6 +1,6 @@
 # Hello! I'm Hari
 
-I'm passionate about low-level programming, system design, and building efficient solutions across the stack. Currently exploring systems programming while crafting user experiences through code.
+I'm passionate about low-level programming, system design, cross-platform app development and building efficient solutions across the stack. Currently exploring systems programming while crafting user experiences through code.
 
 ---
 
