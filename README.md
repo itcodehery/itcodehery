@@ -30,3 +30,12 @@ Christ University, Central Campus, Bangalore
 Music Artist & Mentor | Creating content as @herymusic on YouTube and Spotify
 
 ---
+
+## Check out @ProjectDirectory on YouTube
+- Coding related videos that I curate.
+
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCeP8e6Tafd7pEqB478480Ow?style=social)](https://www.youtube.com/channel/UCeP8e6Tafd7pEqB478480Ow)
+
+<a href="https://www.youtube.com/channel/UCeP8e6Tafd7pEqB478480Ow">
+  <img src="https://img.youtube.com/vi/CKnC6Ep43Nc/maxresdefault.jpg" width="600" alt="Latest Video">
+</a>
