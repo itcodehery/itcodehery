@@ -37,6 +37,7 @@ Music Artist & Mentor | Creating content as @herymusic on YouTube and Spotify
 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCeP8e6Tafd7pEqB478480Ow?style=social)](https://www.youtube.com/channel/UCeP8e6Tafd7pEqB478480Ow)
 
+Watch the latest video here:
 <a href="https://youtu.be/jaoXUIIOm-8">
   <img src="https://img.youtube.com/vi/jaoXUIIOm-8/maxresdefault.jpg" width="600" alt="Caw Development Video">
 </a>
