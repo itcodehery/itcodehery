@@ -1,44 +1,46 @@
 # Hello! I'm Hari
 
-I'm passionate about low-level programming, system design, cross-platform app development and building efficient solutions across the stack. Currently exploring systems programming while crafting user experiences through code.
+<p align="center">
+  <a href="https://itcodehery.dev"><img src="https://img.shields.io/badge/Website-itcodehery.dev-7C93FF?style=for-the-badge&labelColor=11141D" alt="Website" /></a>
+  <a href="https://linktr.ee/itwritshery"><img src="https://img.shields.io/badge/Linktree-itwritshery-4ADE9C?style=for-the-badge&labelColor=11141D" alt="Linktree" /></a>
+  <a href="https://www.linkedin.com/in/hari-prasad-43285a24a/"><img src="https://img.shields.io/badge/LinkedIn-Hari_Prasad-7C93FF?style=for-the-badge&labelColor=11141D" alt="LinkedIn" /></a>
+  <a href="mailto:hariprasadbk@proton.me"><img src="https://img.shields.io/badge/Email-hariprasadbk@proton.me-A77BFF?style=for-the-badge&labelColor=11141D" alt="Email" /></a>
+</p>
 
----
-## Skills
+## About
 
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+I'm passionate about low-level programming, system design, cross-platform app development and building efficient solutions across the stack. Currently exploring systems programming while crafting user experiences through code. 
 
-## Connect With Me
+I'm doing my Master of Computer Applications (MCA) at Christ University, Central Campus, Bangalore.
 
-[![Linktree](https://img.shields.io/badge/Linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/itwritshery)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-prasad-43285a24a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hariprasadbk@proton.me)
+**Quick Facts**
 
-**Bangalore, India**
+| | |
+|---|---|
+| Location | Bangalore, India |
+| Creative | Music Artist & Mentor \| @herymusic on YouTube and Spotify |
+| YouTube | Curation at [@ProjectDirectory](https://www.youtube.com/channel/UCeP8e6Tafd7pEqB478480Ow) |
 
----
+## Content Creation
 
-**Master of Computer Applications (MCA)**  
-Christ University, Central Campus, Bangalore
-
-**Creative Pursuits**  
-Music Artist & Mentor | Creating content as @herymusic on YouTube and Spotify
-
----
-
-## Check out @ProjectDirectory on YouTube
+**@ProjectDirectory on YouTube**
 - Coding related videos that I curate.
 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCeP8e6Tafd7pEqB478480Ow?style=social)](https://www.youtube.com/channel/UCeP8e6Tafd7pEqB478480Ow)
 
-Watch the latest video here:
+<br />
 
 <a href="https://youtu.be/jaoXUIIOm-8">
-  <img src="https://img.youtube.com/vi/jaoXUIIOm-8/maxresdefault.jpg" width="600" alt="Caw Development Video">
+  <img src="https://img.youtube.com/vi/jaoXUIIOm-8/maxresdefault.jpg" width="100%" alt="Caw Development Video">
 </a>
+
+## Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,rust,c,react,js,ts,ruby,go&theme=dark" alt="Flutter, Rust, C, React, JavaScript, TypeScript, Ruby, Go" />
+</p>
+
+| Area | Tools |
+|---|---|
+| Languages | Rust, C, JavaScript, TypeScript, Ruby, Go |
+| Frameworks & Libraries | Flutter, React |
