@@ -1,10 +1,10 @@
 <a href="https://itcodehery.dev"><img src="assets/hero.svg" width="100%" alt="Hari Prasad, Software Developer. Cross-platform." /></a>
 
 <p align="center">
-  <a href="https://itcodehery.dev"><img src="https://img.shields.io/badge/Website-itcodehery.dev-7C93FF?style=for-the-badge&labelColor=11141D" alt="Website" /></a>
-  <a href="https://linktr.ee/itwritshery"><img src="https://img.shields.io/badge/Linktree-itwritshery-4ADE9C?style=for-the-badge&labelColor=11141D" alt="Linktree" /></a>
-  <a href="https://www.linkedin.com/in/hari-prasad-43285a24a/"><img src="https://img.shields.io/badge/LinkedIn-Hari_Prasad-7C93FF?style=for-the-badge&labelColor=11141D" alt="LinkedIn" /></a>
-  <a href="mailto:hariprasadbk@proton.me"><img src="https://img.shields.io/badge/Email-hariprasadbk@proton.me-A77BFF?style=for-the-badge&labelColor=11141D" alt="Email" /></a>
+  <a href="https://itcodehery.dev"><img src="https://img.shields.io/badge/Website-itcodehery.dev-f97316?style=for-the-badge&labelColor=18181b" alt="Website" /></a>
+  <a href="https://linktr.ee/itwritshery"><img src="https://img.shields.io/badge/Linktree-itwritshery-10b981?style=for-the-badge&labelColor=18181b" alt="Linktree" /></a>
+  <a href="https://www.linkedin.com/in/hari-prasad-43285a24a/"><img src="https://img.shields.io/badge/LinkedIn-Hari_Prasad-f97316?style=for-the-badge&labelColor=18181b" alt="LinkedIn" /></a>
+  <a href="mailto:hariprasadbk@proton.me"><img src="https://img.shields.io/badge/Email-hariprasadbk@proton.me-10b981?style=for-the-badge&labelColor=18181b" alt="Email" /></a>
 </p>
 
 <img src="assets/stats.svg" width="100%" alt="GitHub stats: contributions in the last 12 months, public repositories, stars and followers" />
