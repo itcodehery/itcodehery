@@ -1,4 +1,4 @@
-# Hello! I'm Hari
+<a href="https://itcodehery.dev"><img src="assets/hero.svg" width="100%" alt="Hari Prasad, Software Developer. Cross-platform." /></a>
 
 <p align="center">
   <a href="https://itcodehery.dev"><img src="https://img.shields.io/badge/Website-itcodehery.dev-7C93FF?style=for-the-badge&labelColor=11141D" alt="Website" /></a>
@@ -6,6 +6,12 @@
   <a href="https://www.linkedin.com/in/hari-prasad-43285a24a/"><img src="https://img.shields.io/badge/LinkedIn-Hari_Prasad-7C93FF?style=for-the-badge&labelColor=11141D" alt="LinkedIn" /></a>
   <a href="mailto:hariprasadbk@proton.me"><img src="https://img.shields.io/badge/Email-hariprasadbk@proton.me-A77BFF?style=for-the-badge&labelColor=11141D" alt="Email" /></a>
 </p>
+
+<img src="assets/stats.svg" width="100%" alt="GitHub stats: contributions in the last 12 months, public repositories, stars and followers" />
+
+<img src="assets/heatmap.svg" width="100%" alt="Contribution activity over the last 12 months" />
+
+<img src="assets/languages.svg" width="100%" alt="Languages by how many of my repositories use each" />
 
 ## About
 
