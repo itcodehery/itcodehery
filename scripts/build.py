@@ -56,12 +56,12 @@ ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / 'assets'
 W = 840
 
-# Tokens from the ardend.dev design system
-PANEL, RAISED, INSET = '#11141D', '#1A1E2B', '#0D1018'
-SEAM, SEAM_STRONG = '#222739', '#353C55'
-INK, SOFT, MUTED = '#ECEEF6', '#B6BCCD', '#8D95AB'
-KW, STR = '#7C93FF', '#4ADE9C'
-HEAT = [RAISED, '#2A3466', '#3F4FA3', '#5A72D9', KW]
+# Tokens from a custom dark fiery design system
+PANEL, RAISED, INSET = '#18181b', '#27272a', '#09090b'
+SEAM, SEAM_STRONG = '#3f3f46', '#52525b'
+INK, SOFT, MUTED = '#fafafa', '#a1a1aa', '#71717a'
+KW, STR = '#f97316', '#10b981'
+HEAT = [RAISED, '#7c2d12', '#9a3412', '#ea580c', KW]
 
 SANS, MONO = 'archivo-latin', 'jetbrains-mono-latin'
 
@@ -174,7 +174,7 @@ def hero():
         f'<circle class="o" cx="{cx}" cy="{cy}" r="{r + 9}" fill="none" stroke="{KW}" stroke-opacity=".7" stroke-linecap="round" stroke-dasharray="70 120 22 168" style="transform-origin:{cx}px {cy}px"/>',
         f'<path d="M1 310.5H{W - 1}" stroke="{SEAM}"/>',
         f'<path d="M1 311H{W - 1}V383.5a15.5 15.5 0 0 1-15.5 15.5H16.5A15.5 15.5 0 0 1 1 383.5Z" fill="{INSET}"/>',
-        text(28, 336, 'How ardend.dev ships', 11, MUTED),
+        text(28, 336, 'How Hari ships', 11, MUTED),
     ]
     step = (W - 56) / len(PIPELINE)
     for i, (name, detail) in enumerate(PIPELINE):
