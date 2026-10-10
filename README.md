@@ -1,4 +1,4 @@
-<a href="https://itcodehery.dev"><img src="assets/hero.svg" width="100%" alt="Hari Prasad, Software Developer. Cross-platform." /></a>
+<a href="https://itcodehery.dev"><img src="assets/hero.svg?v=2" width="100%" alt="Hari Prasad, Software Developer. Cross-platform." /></a>
 
 <p align="center">
   <a href="https://itcodehery.dev"><img src="https://img.shields.io/badge/Website-itcodehery.dev-f97316?style=for-the-badge&labelColor=18181b" alt="Website" /></a>
@@ -7,11 +7,11 @@
   <a href="mailto:hariprasadbk@proton.me"><img src="https://img.shields.io/badge/Email-hariprasadbk@proton.me-10b981?style=for-the-badge&labelColor=18181b" alt="Email" /></a>
 </p>
 
-<img src="assets/stats.svg" width="100%" alt="GitHub stats: contributions in the last 12 months, public repositories, stars and followers" />
+<img src="assets/stats.svg?v=2" width="100%" alt="GitHub stats: contributions in the last 12 months, public repositories, stars and followers" />
 
-<img src="assets/heatmap.svg" width="100%" alt="Contribution activity over the last 12 months" />
+<img src="assets/heatmap.svg?v=2" width="100%" alt="Contribution activity over the last 12 months" />
 
-<img src="assets/languages.svg" width="100%" alt="Languages by how many of my repositories use each" />
+<img src="assets/languages.svg?v=2" width="100%" alt="Languages by how many of my repositories use each" />
 
 ## About
 
